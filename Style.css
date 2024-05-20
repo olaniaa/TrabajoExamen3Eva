@@ -1,0 +1,118 @@
+header {
+    background-color: rgb(62, 62, 66);
+    color: rgb(255, 255, 255);
+    text-align: center;
+    padding: 20px;
+    border-radius: 20px;
+}
+body {
+    background-color: black;
+    text-align: center;
+    
+}
+.fondo {
+    background-color:  rgba(54, 52, 52, 0.8);
+    border-radius: 20px;
+    padding:  20px;
+    border: 2px solid #0000;
+    max-width: 800px;
+    margin: 0 auto
+}
+
+p {
+    font-size: 30px;
+    margin: 20px;
+    color: aliceblue;
+    
+}
+.p2 {
+    font-size: 20px;
+    margin: 15px;
+    color: aliceblue;
+    
+    
+}
+.p3 {
+    font-size: 20px;
+    margin: 15px;
+    color: aliceblue;
+   
+    
+}
+
+.p4 {
+    font-size: 35px;
+    margin: 15px;
+    color: aliceblue;
+    font-family: 'Arial Narrow';
+   
+    
+}
+
+.p5 {
+    font-size: 15px;
+    margin: 15px;
+    color: aliceblue;
+    font-family: 'Arial Narrow';
+   
+    
+}
+
+.boton1 {
+    background-color: rgb(226, 225, 145);
+    color: rgb(0, 0, 0);
+    font-size: 20px;
+    border: none;
+    border-radius: 5px;
+    padding: 20px 30px;
+    cursor: pointer;
+}
+.boton2 {
+    background-color: rgb(155, 241, 162);
+    color: rgb(0, 0, 0);
+    font-size: 20px;
+    border: none;
+    border-radius: 5px;
+    padding: 20px 30px;
+    cursor: pointer;
+}
+
+.boton3 {
+    background-color: rgb(204, 164, 216);
+    color: rgb(0, 0, 0);
+    font-size: 20px;
+    border: none;
+    border-radius: 5px;
+    padding: 20px 30px;
+    cursor: pointer;
+}
+
+.boton4 {
+    background-color: rgb(214, 120, 108);
+    color: rgb(0, 0, 0);
+    font-size: 20px;
+    border: none;
+    border-radius: 5px;
+    padding: 20px 30px;
+    cursor: pointer;
+}
+
+
+button:hover {
+    background-color: rgb(136, 170, 136);
+}
+
+.Apartado1 {
+    text-align: center;
+}
+
+img {
+  height: 400px;
+  border-radius: 5px;
+}
+
+.Apartado2 {
+    text-align: center;
+    background-color:  rgba(87, 84, 84, 0.8);
+    border-radius: 5px;
+}
